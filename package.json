@@ -1,0 +1,15 @@
+{
+  "name": "recorderistbm",
+  "version": "0.0.2",
+  "description": "esta aplicacion es un repaso de las clases de node, en donde me enseñan a como hacer una tabla de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Larce",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
